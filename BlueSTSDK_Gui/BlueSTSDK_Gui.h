@@ -52,4 +52,5 @@ FOUNDATION_EXPORT const unsigned char BlueSTSDK_GuiVersionString[];
 #import "BlueSTSDKViewControllerMenuDelegate.h"
 #import "FwUpgradeManagerViewController.h"
 #import "UIViewController+BlueSTSDK.h"
+#import "BlueSTSDKFwUpgradeConsole.h"
 #import "MBProgressHUD.h"

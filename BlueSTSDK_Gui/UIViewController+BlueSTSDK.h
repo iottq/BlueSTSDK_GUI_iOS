@@ -54,7 +54,7 @@
  * display a pupup with a title a message and a Ok button
  * @param msg message to display
  * @param title title to display
- * @param closeController if true when the user click ok, the current clontroller
+ * @param exit if true when the user click ok, the current clontroller
  * will be dismissed, and the prevous one will be displayed.
  */
 -(void)showErrorMsg:(NSString *)msg title:(NSString*)title closeController:(BOOL)exit;

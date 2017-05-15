@@ -91,10 +91,8 @@
 -(BOOL) loadFwFile:(NSURL *)file delegate:(id<BlueSTSDKFwUpgradeUploadFwDelegate>) delegate;
 @end
 
-
-
 /**
- * Delegate used for comunicate 
+ * Delegate used to comunicate the firmware version 
  */
 @protocol BlueSTSDKFwUpgradeReadVersionDelegate <NSObject>
 /**
