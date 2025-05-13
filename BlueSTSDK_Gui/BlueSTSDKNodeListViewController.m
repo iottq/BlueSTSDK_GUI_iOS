@@ -39,7 +39,7 @@
 
 #import "MBProgressHUD.h"
 
-#import <BlueSTSDK/BlueSTSDKManager.h>
+//#import <BlueSTSDK/BlueSTSDKManager.h>
 #import <BlueSTSDK/BlueSTSDKNode.h>
 #import <BlueSTSDK/BlueSTSDKNodeStatusNSLog.h>
 #import "BlueSTSDKNodeListViewCell.h"
